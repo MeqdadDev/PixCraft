@@ -43,7 +43,7 @@ def apply_image_processing(image, filename):
     rgb_split_channels = image_processor.split_rgb_channels(rgb, filename)
     average_blur = image_processor.average_blur(rgb, filename)
     gaussian_blur = image_processor.gaussian_blur(rgb, filename)
-    detect_edges = image_processor.detect_edges(rgb, filename)
+    dejtect_edges = image_processor.detect_edges(rgb, filename)
     canny_edges = image_processor.canny_edge_detection(gray, filename)
     hsv_model = image_processor.hsv_model(rgb, filename)
 
