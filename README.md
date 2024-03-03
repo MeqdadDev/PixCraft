@@ -1,5 +1,8 @@
 # PixCraft
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
+
+
 <p align="center">
 <picture>
   <img alt="PixCraft Logo" src="PixCraft-logo.png" width="22%" hight="22%" >
