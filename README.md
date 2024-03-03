@@ -1,11 +1,8 @@
 # PixCraft
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 <p align="center">
 <picture>
-  <img alt="PixCraft Logo" src="PixCraft-logo.png" width="17%" hight="17%" >
+  <img alt="PixCraft Logo" src="PixCraft-logo.png" width="22%" hight="22%" >
 </picture>
 </p>
 
@@ -29,4 +26,4 @@ Kindly try to avoid duplications, please take a sneak peek on the uploaded sourc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/)
