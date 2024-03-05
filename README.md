@@ -35,6 +35,52 @@ Embark on a visual odyssey as you explore edge detection, binarization, color fi
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+## Getting Started (locally)
+
+1. Clone the Git repository:
+
+Use the `git clone` command followed by the repository URL to clone the repository locally:
+
+```bash
+git clone https://github.com/MeqdadDev/PixCraft.git
+```
+
+2. Navigate to the project directory:
+
+Use the `cd` command to navigate to the directory where the cloned repository resides.
+
+```bash
+cd PixCraft
+```
+
+3. Install dependencies:
+
+Install the dependencies by using `requirements.txt` file that lists all the necessary dependencies the application needs to run.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application:
+
+Once the dependencies are installed, you can run the Flask application using the following command:
+
+```bash
+python app.py
+```
+
+5. Access your application in the browser:
+
+Open a web browser and navigate to:
+```bash
+http://localhost:5000
+```
+
+Or...
+
+```bash
+http://127.0.0.1:5000/
+```
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
