@@ -12,7 +12,7 @@
 
 <p align="center">
 <picture>
-  <img alt="PixCraft Logo" src="PixCraft-logo.png" width="29%" hight="29%" >
+  <img alt="PixCraft Logo" src="static/PixCraft-logo.png" width="29%" hight="29%" >
 </picture>
 </p>
 
