@@ -23,12 +23,12 @@
         }
         footer {
 			background-color: #005f6b;
-			color: #fff;
-			padding: 20px;
-			text-align: center;
-			position: absolute;
-			bottom: 0;
-			width: 100%;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
 		}
         
 
@@ -37,9 +37,6 @@
 <body>
     <h4>Welcome to</h4>
     <h1>PixCraft</h1>
-    <br>
-    <img src="static/PixCraft-logo.png" alt="PixCraft Logo" width="25%" height="25%">
-    <br>
     <h2>Upload an Image</h2>
     <br>
     <form action="/upload" method="post" enctype="multipart/form-data">
@@ -64,6 +61,9 @@
             }
         }
     </script>
+    <br>
+    <img src="static/PixCraft-logo.png" alt="PixCraft Logo" width="25%" height="25%">
+    <br>
     <footer id="footer">
         <p>&copy; <span id="currentYear"></span> PixCraft</p>
     </footer>
