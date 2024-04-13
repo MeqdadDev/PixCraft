@@ -16,9 +16,9 @@
 </picture>
 </p>
 
-Welcome to PixCraft *(Unleash the Power of Pixels)*, where creativity meets technology in an immersive journey of image processing excellence. With the seamless integration of Flask framework (Back-end) and OpenCV's powerful algorithms, users can upload images effortlessly and unleash a plethora of transformations with just a few clicks.
+PixCraft *(Unleash the Power of Pixels)* is a powerful image processing and computer vision application that allows users to explore and manipulate digital images effortlessly. With its intuitive interface, users can upload images or access their device's camera, and then apply a wide range of image processing operations like grayscale conversion, HSV color space transformation, edge detection, and more.
 
-Embark on a visual odyssey as you explore edge detection, binarization, color filtering, and more, all within an intuitive and polished interface. Whether you're a seasoned artist or a curious enthusiast, PixCraft invites you to push the boundaries of digital expression and transform ordinary images into extraordinary works of art.
+Furthermore, PixCraft incorporates advanced recognition and detection techniques, including face detection, object detection, pose detection, and hand detection. These cutting-edge capabilities unlock new dimensions of image analysis and exploration, making PixCraft an invaluable tool for hobbyists, professionals, and anyone interested in the world of digital imagery. **Unleash the power of pixels** and embark on an extraordinary visual journey with PixCraft.
 
 
 ### Let's Start PixCrafting...
